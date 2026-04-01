@@ -1,0 +1,10 @@
+opencv-python==4.13.0.92
+jupyter==1.1.1
+jupyterlab==4.5.4
+matplotlib==3.9.4
+seaborn==0.13.2
+pandas==2.3.3
+scipy==1.13.1
+scikit-learn==1.6.1
+nbdime==4.0.4
+networkx==3.2.1
